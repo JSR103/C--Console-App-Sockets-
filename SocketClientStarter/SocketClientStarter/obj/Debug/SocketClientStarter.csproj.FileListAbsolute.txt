@@ -1,0 +1,5 @@
+C:\Users\silva\Desktop\Sockets\SocketClientStarter\SocketClientStarter\bin\Debug\SocketClientStarter.exe.config
+C:\Users\silva\Desktop\Sockets\SocketClientStarter\SocketClientStarter\bin\Debug\SocketClientStarter.exe
+C:\Users\silva\Desktop\Sockets\SocketClientStarter\SocketClientStarter\bin\Debug\SocketClientStarter.pdb
+C:\Users\silva\Desktop\Sockets\SocketClientStarter\SocketClientStarter\obj\Debug\SocketClientStarter.exe
+C:\Users\silva\Desktop\Sockets\SocketClientStarter\SocketClientStarter\obj\Debug\SocketClientStarter.pdb
